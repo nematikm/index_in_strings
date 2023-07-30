@@ -1,0 +1,9 @@
+# Let's find the letter that we look for.
+
+input_string = input("Please type in a string: ")
+print("First character: " + input_string[0])
+print("Last character: " + input_string[-1])
+
+Please type in a string: testing 
+First character: t 
+Last character: g
